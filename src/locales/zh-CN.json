@@ -1,0 +1,103 @@
+{
+  "app": {
+    "title": "我的校园卡",
+    "pageInfo": "第 {page} 页 / 共 {total} 页",
+    "items": "条",
+    "footer": "我的校园卡 · 北航校园卡流水分析系统"
+  },
+  "login": {
+    "title": "校园卡流水分析系统",
+    "subtitle": "统一身份认证",
+    "stuNo": "学号",
+    "password": "密码",
+    "placeholderStuNo": "请输入学号",
+    "placeholderPassword": "请输入密码",
+    "rememberPassword": "记住密码",
+    "autoLogin": "自动登录",
+    "loginBtn": "登 录",
+    "loggingIn": "登录中...",
+    "privacy1": "您的登录信息仅在本地处理",
+    "privacy2": "不会上传到任何第三方服务器",
+    "errorMissing": "请输入学号和密码",
+    "logout": "退出登录",
+    "errorAccess": "无法访问登录页面",
+    "errorPassword": "密码错误",
+    "errorUserNotFound": "用户不存在",
+    "errorCaptcha": "需要验证码，请稍后重试",
+    "errorGeneric": "登录失败，请检查学号和密码"
+  },
+  "report": {
+    "type": "统计类型",
+    "calendarYear": "自然年",
+    "academicYear": "学年",
+    "selectTime": "选择时间",
+    "academicStart": "学年起始",
+    "monthName": {
+      "7": "7月",
+      "8": "8月"
+    },
+    "daySuffix": "日",
+    "showPersonalInfo": "显示姓名",
+    "showerStats": "浴室统计",
+    "fetchData": "获取流水",
+    "loading": "加载中...",
+    "exportReport": "导出报告",
+    "exporting": "导出中...",
+    "exportJSON": "导出 JSON",
+    "reportTitle": "校园卡消费报告",
+    "month": "月",
+    "day": "日",
+    "hour": "时",
+    "generatedTime": "报告生成时间：",
+    "emptyState": "选择年份并点击「获取流水」按钮",
+    "emptyHint": "加载您的校园卡消费数据",
+    "yearSuffix": "",
+    "filenamePrefixImage": "校园卡报告",
+    "filenamePrefixJson": "校园卡流水",
+    "exportFailed": "导出失败"
+  },
+  "stats": {
+    "consumptionCount": "消费次数",
+    "totalAmount": "总消费金额",
+    "averageAmount": "平均每次消费",
+    "balance": "当年结余",
+    "rechargeCount": "充值次数",
+    "totalRecharge": "总充值金额",
+    "averageRecharge": "平均每次充值",
+    "showerCount": "洗澡次数",
+    "totalCost": "总花费",
+    "averageFrequency": "平均频率",
+    "averagePerTime": "平均消费",
+    "frequencyUnit": "天/次",
+    "referenceOnly": "仅供参考"
+  },
+  "error": {
+    "noRecords": "该年份暂无消费记录",
+    "fetchFailed": "获取数据失败",
+    "notElectron": "请在 Electron 环境中运行此应用",
+    "fetchError": "获取流水失败"
+  },
+  "charts": {
+    "locationDistribution": "消费地点分布",
+    "monthlyStats": "每月消费统计",
+    "dailyTrend": "每日消费趋势",
+    "hourlyDistribution": "24小时消费分布",
+    "other": "其他",
+    "dailyConsumption": "日消费 (元)",
+    "monthlyConsumption": "月消费 (元)",
+    "frequency": "消费频次",
+    "consumption": "消费"
+  },
+  "details": {
+    "title": "消费明细",
+    "pageSize": "每页显示",
+    "time": "时间",
+    "merchant": "商户",
+    "transactionName": "交易名称",
+    "amount": "金额",
+    "balance": "余额",
+    "prevPage": "上一页",
+    "nextPage": "下一页",
+    "pageInfo": "第 {page} 页 / 共 {total} 页"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "app": {
+    "title": "MyCampusCard",
+    "pageInfo": "Page {page} / {total}",
+    "items": "items",
+    "footer": "MyCampusCard · Campus Card Analysis System"
+  },
+  "login": {
+    "title": "Campus Card Analysis System",
+    "subtitle": "SSO Login",
+    "stuNo": "Student ID",
+    "password": "Password",
+    "placeholderStuNo": "Enter Student ID",
+    "placeholderPassword": "Enter Password",
+    "rememberPassword": "Remember Password",
+    "autoLogin": "Auto Login",
+    "loginBtn": "Login",
+    "loggingIn": "Logging in...",
+    "privacy1": "Your credentials are processed locally",
+    "privacy2": "No data is uploaded to third-party servers",
+    "errorMissing": "Please enter Student ID and Password",
+    "logout": "Logout",
+    "errorAccess": "Cannot access login page",
+    "errorPassword": "Incorrect password",
+    "errorUserNotFound": "User not found",
+    "errorCaptcha": "Captcha required, please try again later",
+    "errorGeneric": "Login failed, please check Student ID and Password"
+  },
+  "report": {
+    "type": "Report Type",
+    "calendarYear": "Calendar Year",
+    "academicYear": "Academic Year",
+    "selectTime": "Select Time",
+    "academicStart": "Academic Start",
+    "monthName": {
+      "7": "Jul",
+      "8": "Aug"
+    },
+    "daySuffix": "",
+    "showPersonalInfo": "Show Name",
+    "showerStats": "Shower Stats",
+    "fetchData": "Fetch Data",
+    "loading": "Loading...",
+    "exportReport": "Export Report",
+    "exporting": "Exporting...",
+    "exportJSON": "Export JSON",
+    "reportTitle": "Campus Card Consumption Report",
+    "month": "Month",
+    "day": "Day",
+    "hour": ":00",
+    "generatedTime": "Generated at: ",
+    "emptyState": "Select year and click 'Fetch Data'",
+    "emptyHint": "Load your campus card consumption data",
+    "yearSuffix": "",
+    "filenamePrefixImage": "CampusCardReport",
+    "filenamePrefixJson": "CampusCardFlow",
+    "exportFailed": "Export failed"
+  },
+  "stats": {
+    "consumptionCount": "Transactions",
+    "totalAmount": "Total Spent",
+    "averageAmount": "Avg per Transaction",
+    "balance": "Balance",
+    "rechargeCount": "Recharges",
+    "totalRecharge": "Total Recharged",
+    "averageRecharge": "Avg Recharge",
+    "showerCount": "Showers",
+    "totalCost": "Total Cost",
+    "averageFrequency": "Avg Frequency",
+    "averagePerTime": "Avg Cost",
+    "frequencyUnit": " days/time",
+    "referenceOnly": "For reference only"
+  },
+  "error": {
+    "noRecords": "No records found for this year",
+    "fetchFailed": "Failed to fetch data",
+    "notElectron": "Please run in Electron environment",
+    "fetchError": "Fetch error"
+  },
+  "charts": {
+    "locationDistribution": "Location Distribution",
+    "monthlyStats": "Monthly Stats",
+    "dailyTrend": "Daily Trend",
+    "hourlyDistribution": "24h Distribution",
+    "other": "Other",
+    "dailyConsumption": "Daily Consumption (CNY)",
+    "monthlyConsumption": "Monthly Consumption (CNY)",
+    "frequency": "Frequency",
+    "consumption": "Consumption"
+  },
+  "details": {
+    "title": "Details",
+    "pageSize": "Page Size",
+    "time": "Time",
+    "merchant": "Merchant",
+    "transactionName": "Transaction",
+    "amount": "Amount",
+    "balance": "Balance",
+    "prevPage": "Previous",
+    "nextPage": "Next",
+    "pageInfo": "Page {page} / {total}"
+  }
+}

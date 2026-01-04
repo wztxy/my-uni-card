@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="24" width="208" height="208" rx="48" fill="url(#g)"/>
+
+  <!-- Simple card glyph -->
+  <rect x="58" y="84" width="140" height="88" rx="18" fill="#ffffff" opacity="0.95"/>
+  <rect x="72" y="104" width="112" height="14" rx="7" fill="#2563eb" opacity="0.85"/>
+  <rect x="72" y="132" width="64" height="12" rx="6" fill="#0ea5e9" opacity="0.85"/>
+  <rect x="72" y="152" width="92" height="12" rx="6" fill="#0ea5e9" opacity="0.55"/>
+</svg>
