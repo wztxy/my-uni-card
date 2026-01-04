@@ -129,6 +129,6 @@ Copyright © 2026 [wztxy](https://github.com/wztxy)
 
 在校生開發和營運的校園論壇 / 樹洞
 
-掃碼體驗微信小程式！
+掃碼體驗 WeChat 小程式！
 
 </div>
